@@ -1,6 +1,6 @@
 Name:		texlive-babel-indonesian
 Version:	43235
-Release:	1
+Release:	2
 Summary:	Support for Indonesian within babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-indonesian

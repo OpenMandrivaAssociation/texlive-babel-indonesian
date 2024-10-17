@@ -3,7 +3,7 @@ Version:	43235
 Release:	2
 Summary:	Support for Indonesian within babel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-indonesian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-indonesian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-indonesian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-indonesian.doc.r%{version}.tar.xz
